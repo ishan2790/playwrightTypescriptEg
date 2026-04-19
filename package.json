@@ -1,0 +1,1 @@
+{\n  "name": "playwright-typescript-example",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "test": "playwright test"\n  },\n  "devDependencies": {\n    "@playwright/test": "latest",\n    "typescript": "latest",\n    "playwright-locator-healing": "latest"\n  }\n}
